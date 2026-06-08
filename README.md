@@ -31,10 +31,10 @@ Built in one day as a portfolio piece to land freelance contracts.
 1. Install Flutter (see [flutter.dev](https://flutter.dev))
 2. Clone this repo
    ```bash
-   git clone https://github.com/YOUR_USERNAME/unit_converter.git
+   git clone https://github.com/I-amX/unit_converter.git
    cd unit_converter
 
-   ## 📲 End Users (No Flutter required)
+## 📲 End Users (No Flutter required)
 
-- **Android**: Download and install the APK from [this link](link-to-your-apk).  
-- **Web**: Use the live demo at [https://your-app.netlify.app](https://your-app.netlify.app)
+- **Android**: Download and install the APK from [this link](build\app\outputs\flutter-apk\app-release.apk (46.9MB)).  
+- **Web**: Use the live demo at [https://i-amx.github.io/unit_converter/](https://i-amx.github.io/unit_converter/)
